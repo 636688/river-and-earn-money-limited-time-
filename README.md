@@ -5,7 +5,8 @@ const cors = require('cors');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 require('dotenv').config();
-
+<script async="async" data-cfasync="false" src="//pl26953725.profitableratecpm.com/8b2e3a5f872f61470d5e33d93f9b3010/invoke.js"></script>
+<div id="container-8b2e3a5f872f61470d5e33d93f9b3010"></div>
 const app = express();
 app.use(cors());
 app.use(express.json());
@@ -85,7 +86,8 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));<!DOCTYPE 
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Referral Reward Website</title>
-<style>
+<style><script async="async" data-cfasync="false" src="//pl26953725.profitableratecpm.com/8b2e3a5f872f61470d5e33d93f9b3010/invoke.js"></script>
+<div id="container-8b2e3a5f872f61470d5e33d93f9b3010"></div>
   body { font-family: Arial, sans-serif; margin: 20px; }
   header, main, footer { max-width: 600px; margin: auto; }
   .sidebar { float: right; width: 300px; margin-left: 20px; }
